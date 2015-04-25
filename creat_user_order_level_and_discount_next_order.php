@@ -1,6 +1,8 @@
 <?php 
 /*
- * Discount user level for order totals
+ * creat_user_order_level_and_discount_next_order.php
+ * Creat user order level
+ * Discount order totals for custom user order level in next order
  * add key to user meta total ordered complete
  * add key to user meta member level
  * Check member level and add fee to cart
